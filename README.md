@@ -5,9 +5,6 @@
 - 🌱 Tôi hiện đang học THPT
 - 💞️ Tôi đang muốn cộng tác trên đại học CNTT 
 - 📫 Liên hệ với tôi https://www.facebook.com/loi.nguyenhuu.5667901
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bossvirus&show_icons=true&theme=nightowl)](https://github.com/bossvirus)
-
 <br>
 <br>
 <p align="center">
