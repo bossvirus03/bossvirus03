@@ -1,8 +1,5 @@
-👋 Xin chào, tôi là @bossvirus
-- Tên thật của tôi là: Nguyễn Hữu Lợi
-- Tôi sinh ngày 17-3-2004
-- 👀 Tôi quan tâm đến Java scirp
-- 🌱 Tôi hiện đang học THPT
+👋 hi, i am @bossvirus
+   my name Nguyễn Hữu Lợi
 - 📫 Liên hệ với tôi https://www.facebook.com/bossvirus03/
 <br>
 <br>
