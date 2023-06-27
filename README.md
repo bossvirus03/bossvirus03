@@ -1,8 +1,9 @@
-👋 hi, i am @bossvirus
+👋 hi, i am @bossvirus<br>
    my name Nguyễn Hữu Lợi
 - 📫 Liên hệ với tôi https://www.facebook.com/bossvirus03/
 <br>
 <br>
+<img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg">
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
   <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
@@ -13,6 +14,7 @@
 <p align="center">
   <a href="https://facebook.com/100049732817959" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>
   <a href="https://messenger.com/t/100049732817959" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/messenger.svg" alt="messenger" height="30" width="30" /></a>
+
 </p>
 <br>
 <br>
