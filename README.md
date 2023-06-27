@@ -3,7 +3,7 @@
 - 📫 Liên hệ với tôi https://www.facebook.com/bossvirus03/
 <br>
 <br>
-<div style = " display: flex"; justify-content: center>
+<div style = " display: flex";align="center">
 <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" style = "width: 50px; height: 50px">
 <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" style = "width: 50px; height: 50px">
 <img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" style = "width: 50px; height: 50px">
