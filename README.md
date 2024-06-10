@@ -24,9 +24,8 @@
 <a href="https://discord.gg/bossvirus03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bossvirus03" height="30" width="40" /></a>
 </p>
 
- ### 
+ ### ⚒️ Languages / Frameworks / Tools ⚒️
  
- <h1 align="center">⚒️ Languages / Frameworks / Tools ⚒️</h1>
  <div align="center" dir="auto">
     <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com">
        <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,sass,vscode,github,figma,tailwind,git,redux">
@@ -36,4 +35,7 @@
     </a>
 </div>
 
+
+ ###  🐍 My Contributions 🐍
+ 
 ![snake gif](https://github.com/bossvirus03/bossvirus03/blob/output/github-contribution-grid-snake.gif)
