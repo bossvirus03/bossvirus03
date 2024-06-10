@@ -38,4 +38,4 @@
 
  ###  🐍 My Contributions 🐍
  
-![snake gif](https://github.com/bossvirus03/bossvirus03/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/bossvirus03/bossvirus03/blob/output/github-contribution-grid-snake.svg)
