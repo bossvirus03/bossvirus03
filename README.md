@@ -1,22 +1,39 @@
-👋 hi, i am @bossvirus<br>
-   my name Nguyễn Hữu Lợi
-- 📫 Liên hệ với tôi https://www.facebook.com/bossvirus03/
-<br>
-<div style = " display: flex"; align="center">
-<img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/HTML.svg" style = "width: 50px; height: 50px">
-<img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/CSS.svg" style = "width: 50px; height: 50px">
-<img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/JavaScript.svg" style = "width: 50px; height: 50px">
-<img src = "https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/NodeJS-Light.svg" style = "width: 50px; height: 50px">
-</div>
-<br>
-<br><br>
-<p align="center">
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100"><img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://i.giphy.com/media/VgGthkhUvGgOit7Y9i/200.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100"><br><br>
-  <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
-  <img src="https://little.kylerconway.com/images/golang-what.gif" width="300">
+ <img src='https://i.ibb.co/30kNgtr/68747470733a2f2f6d69722d73332d63646e2d63662e626568616e63652e6e65742f70726f6a6563745f6d6f64756c65732f.gif'/>
+ 
+ ### 
+ 
+ <h1 align="center">
+    <a href="https://git.io/typing-svg" align="center">
+       <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=33&duration=3000&pause=400&color=FFFFFF&random=false&width=435&lines=Hi+There+👋%2C+Im+bossvirus03;Im+Fullstack+web+developer" alt="Typing SVG" />
+   </a>
+ </h1>
+
+- 👨‍💻 All of my projects are available at [nguyenhuuloidev.click](nguyenhuuloidev.click)
+
+- 💬 Ask me about **nestjs, reactjs, graphQL, ..**
+
+- 📫 How to reach me **nguyenhuuloi17032004@gmail.com**
+
+ 
+ ###
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/bossvirus03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bossvirus03" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/bossvirus03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bossvirus03" height="30" width="40" /></a>
+<a href="https://discord.gg/bossvirus03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bossvirus03" height="30" width="40" /></a>
 </p>
-<br>
-<br>
-<p align="center">
-  <a href="https://facebook.com/100049732817959" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="30" /></a>
-  <a href="https://messenger.com/t/100049732817959" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/messenger.svg" alt="messenger" height="30" width="30" /></a>
+
+ ### 
+ 
+ <h1 align="center">⚒️ Languages / Frameworks / Tools ⚒️</h1>
+ <div align="center" dir="auto">
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com">
+       <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,sass,vscode,github,figma,tailwind,git,redux">
+    </a>
+    <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com">
+       <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,express,mongodb,nestjs,mysql,postgres,elasticsearch,prisma,graphql,sequelize,nextjs">
+    </a>
+</div>
+
+![snake gif](https://github.com/bossvirus03/bossvirus03/blob/output/github-contribution-grid-snake.gif)
