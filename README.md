@@ -3,9 +3,7 @@
  ### 
  
  <h1 align="center">
-    <a href="https://git.io/typing-svg" align="center">
-       <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=33&duration=3000&pause=400&color=FFFFFF&random=false&width=445&lines=Hi+There+👋%2C+Im+bossvirus03;Im+Fullstack+web+developer" alt="Typing SVG" />
-   </a>
+    <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=000000&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+fullstack+developer" alt="Typing SVG" /></a>
  </h1>
 
 - 👨‍💻 All of my projects are available at [nguyenhuuloidev.click](nguyenhuuloidev.click)
